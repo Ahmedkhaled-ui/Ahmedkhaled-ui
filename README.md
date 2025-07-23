@@ -27,11 +27,16 @@ I enjoy building responsive web applications, exploring UI/UX patterns, and lear
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 **Frameworks & Tools:**
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-3C64B1?style=for-the-badge\&logo=prime\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge)
